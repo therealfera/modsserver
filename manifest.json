@@ -8,7 +8,7 @@
   },
   "hashAlgorithm": "sha1",
   "description": "modpack criado por fera e gabi :)",
-  "totalMods": 41,
+  "totalMods": 40,
   "files": [
     {
       "name": "aether 1.20.1 1.5.2 neoforge",
@@ -79,15 +79,6 @@
       "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/common-networking-forge-1.0.6-1.20.1.jar",
       "sha1": "68dae58372f8332d7b8596e908f85433c0e0cb0d",
       "size": 21680,
-      "category": "mods",
-      "required": true
-    },
-    {
-      "name": "continuity 3.0.0+1.20.1.forge",
-      "filename": "continuity-3.0.0+1.20.1.forge.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/continuity-3.0.0%2B1.20.1.forge.jar",
-      "sha1": "816c1bb15c3686f67143dabced87bd4811cc43d2",
-      "size": 1016666,
       "category": "mods",
       "required": true
     },
