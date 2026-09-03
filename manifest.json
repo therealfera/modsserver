@@ -8,7 +8,7 @@
   },
   "hashAlgorithm": "sha1",
   "description": "modpack criado por fera e gabi :)",
-  "totalMods": 40,
+  "totalMods": 35,
   "files": [
     {
       "name": "aether 1.20.1 1.5.2 neoforge",
@@ -65,15 +65,6 @@
       "required": true
     },
     {
-      "name": "Clumps forge 1.20.1 12.0.0.4",
-      "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/Clumps-forge-1.20.1-12.0.0.4.jar",
-      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
-      "size": 20299,
-      "category": "mods",
-      "required": true
-    },
-    {
       "name": "common networking forge 1.0.6 1.20.1",
       "filename": "common-networking-forge-1.0.6-1.20.1.jar",
       "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/common-networking-forge-1.0.6-1.20.1.jar",
@@ -106,33 +97,6 @@
       "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/curios-forge-5.14.1%2B1.20.1.jar",
       "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
       "size": 398066,
-      "category": "mods",
-      "required": true
-    },
-    {
-      "name": "embeddium 0.3.31+mc1.20.1",
-      "filename": "embeddium-0.3.31+mc1.20.1.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/embeddium-0.3.31%2Bmc1.20.1.jar",
-      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
-      "size": 1320675,
-      "category": "mods",
-      "required": true
-    },
-    {
-      "name": "entity model features 3.3.4 1.20.1 forge",
-      "filename": "entity_model_features-3.3.4-1.20.1-forge.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/entity_model_features-3.3.4-1.20.1-forge.jar",
-      "sha1": "2035d5f8c6671ab667461e66af4cead1aad2ef0b",
-      "size": 814185,
-      "category": "mods",
-      "required": true
-    },
-    {
-      "name": "entity texture features 7.2.1 1.20.1 forge",
-      "filename": "entity_texture_features-7.2.1-1.20.1-forge.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/entity_texture_features-7.2.1-1.20.1-forge.jar",
-      "sha1": "a21c00c9a8a457179ddcccd44c38e177d5dc96f2",
-      "size": 975706,
       "category": "mods",
       "required": true
     },
@@ -196,15 +160,6 @@
       "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/GlitchCore-forge-1.20.1-0.0.1.1.jar",
       "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
       "size": 87550,
-      "category": "mods",
-      "required": true
-    },
-    {
-      "name": "iris shader folder 1.4.1 forge",
-      "filename": "iris_shader_folder-1.4.1-forge.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/iris_shader_folder-1.4.1-forge.jar",
-      "sha1": "daf47cce58220bf0ff49a391d279f96d4aa384d5",
-      "size": 214254,
       "category": "mods",
       "required": true
     },
@@ -290,11 +245,11 @@
       "required": true
     },
     {
-      "name": "oculus mc1.20.1 1.8.0",
-      "filename": "oculus-mc1.20.1-1.8.0.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/oculus-mc1.20.1-1.8.0.jar",
-      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
-      "size": 2851119,
+      "name": "OptiFine 1.20.1 HD U I6",
+      "filename": "OptiFine_1.20.1_HD_U_I6.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/OptiFine_1.20.1_HD_U_I6.jar",
+      "sha1": "227914ab1037762eae44a2e66a568b87d7a02365",
+      "size": 7145205,
       "category": "mods",
       "required": true
     },
@@ -317,9 +272,9 @@
       "required": true
     },
     {
-      "name": "skinrestorer 2.10.0.2B1.20 forge",
-      "filename": "skinrestorer-2.10.0.2B1.20-forge.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/skinrestorer-2.10.0.2B1.20-forge.jar",
+      "name": "skinrestorer 2.10.0%2B1.20 forge",
+      "filename": "skinrestorer-2.10.0%2B1.20-forge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/skinrestorer-2.10.0%252B1.20-forge.jar",
       "sha1": "919477e223f07881d084bdd5e919c5eda7667c4c",
       "size": 278170,
       "category": "mods",
