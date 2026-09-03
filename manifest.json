@@ -1,0 +1,365 @@
+{
+  "name": "Mod Server Fera",
+  "version": "1.0",
+  "gameVersion": "1.20.1",
+  "loader": {
+    "type": "forge",
+    "version": "47.4.10"
+  },
+  "hashAlgorithm": "sha1",
+  "description": "Pacote de mods oficial hospedado no GitHub Releases.",
+  "totalMods": 39,
+  "files": [
+    {
+      "name": "aether 1.20.1 1.5.2 neoforge",
+      "filename": "aether-1.20.1-1.5.2-neoforge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/aether-1.20.1-1.5.2-neoforge.jar",
+      "sha1": "fb6af601028e399016271bc166fd1de888680de7",
+      "size": 39746319,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "AetherVillages 1.20.1 1.0.7 forge",
+      "filename": "AetherVillages-1.20.1-1.0.7-forge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/AetherVillages-1.20.1-1.0.7-forge.jar",
+      "sha1": "f09c56667fe945c2d84474ee4e905815153cf52b",
+      "size": 646120,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "appleskin forge mc1.20.1 2.5.1",
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "size": 47428,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "architectury 9.2.14 forge",
+      "filename": "architectury-9.2.14-forge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "BiomesOPlenty forge 1.20.1 19.0.0.96",
+      "filename": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "sha1": "957adcd274e7c64853c93293976ecdd388a3b7fe",
+      "size": 22381010,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "carryon forge 1.20.1 2.1.2.7",
+      "filename": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "size": 439457,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "common networking forge 1.0.6 1.20.1",
+      "filename": "common-networking-forge-1.0.6-1.20.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/common-networking-forge-1.0.6-1.20.1.jar",
+      "sha1": "68dae58372f8332d7b8596e908f85433c0e0cb0d",
+      "size": 21680,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "Controlling forge 1.20.1 12.0.2",
+      "filename": "Controlling-forge-1.20.1-12.0.2.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
+      "size": 115280,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "cosmeticarmorreworked 1.20.1 v1a",
+      "filename": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "size": 88752,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "curios forge 5.14.1+1.20.1",
+      "filename": "curios-forge-5.14.1+1.20.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/curios-forge-5.14.1%2B1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "size": 398066,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "embeddium 0.3.31+mc1.20.1",
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "entity model features 3.3.4 1.20.1 forge",
+      "filename": "entity_model_features-3.3.4-1.20.1-forge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/entity_model_features-3.3.4-1.20.1-forge.jar",
+      "sha1": "2035d5f8c6671ab667461e66af4cead1aad2ef0b",
+      "size": 814185,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "entity texture features 7.2.1 1.20.1 forge",
+      "filename": "entity_texture_features-7.2.1-1.20.1-forge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/entity_texture_features-7.2.1-1.20.1-forge.jar",
+      "sha1": "a21c00c9a8a457179ddcccd44c38e177d5dc96f2",
+      "size": 975706,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "FallingTree 1.20.1 4.3.4",
+      "filename": "FallingTree-1.20.1-4.3.4.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/FallingTree-1.20.1-4.3.4.jar",
+      "sha1": "44d15ae2074b761597e8b8de5846cb2f98f64d25",
+      "size": 420179,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "FarmersDelight 1.20.1 1.3.3",
+      "filename": "FarmersDelight-1.20.1-1.3.3.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/FarmersDelight-1.20.1-1.3.3.jar",
+      "sha1": "cc870571d8c0ce79b0904ae27323bc8c79a1e84e",
+      "size": 3311381,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "framework forge 1.20.1 0.8.0",
+      "filename": "framework-forge-1.20.1-0.8.0.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/framework-forge-1.20.1-0.8.0.jar",
+      "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+      "size": 383868,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "ftb library forge 2001.2.13",
+      "filename": "ftb-library-forge-2001.2.13.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/ftb-library-forge-2001.2.13.jar",
+      "sha1": "a5427d5ff07eb044144ed0b54308370d88bce17e",
+      "size": 780558,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "ftb ultimine forge 2001.1.8",
+      "filename": "ftb-ultimine-forge-2001.1.8.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/ftb-ultimine-forge-2001.1.8.jar",
+      "sha1": "c2a1eb72c36ad067faafbff4e1618c4db906de74",
+      "size": 129653,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "geckolib forge 1.20.1 4.8.4",
+      "filename": "geckolib-forge-1.20.1-4.8.4.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+      "size": 1038209,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "GlitchCore forge 1.20.1 0.0.1.1",
+      "filename": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
+      "size": 87550,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "iris shader folder 1.4.1 forge",
+      "filename": "iris_shader_folder-1.4.1-forge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/iris_shader_folder-1.4.1-forge.jar",
+      "sha1": "daf47cce58220bf0ff49a391d279f96d4aa384d5",
+      "size": 214254,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "ironfurnaces 1.20.1 4.1.8",
+      "filename": "ironfurnaces-1.20.1-4.1.8.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/ironfurnaces-1.20.1-4.1.8.jar",
+      "sha1": "55386bfd5746bd8588df5d45f19cc964b666afe5",
+      "size": 612921,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "Jade 1.20.1 Forge 11.13.3",
+      "filename": "Jade-1.20.1-Forge-11.13.3.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
+      "size": 553487,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "jei 1.20.1 forge 15.49.0.194",
+      "filename": "jei-1.20.1-forge-15.49.0.194.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/jei-1.20.1-forge-15.49.0.194.jar",
+      "sha1": "8c339e29c94bee23af3364e06dad31956e1d3a1f",
+      "size": 1673634,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "jei 1.20.1 forge 15.56.0.205",
+      "filename": "jei-1.20.1-forge-15.56.0.205.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/jei-1.20.1-forge-15.56.0.205.jar",
+      "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
+      "size": 1778129,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "journeymap forge 1.20.1 6.0.1",
+      "filename": "journeymap-forge-1.20.1-6.0.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/journeymap-forge-1.20.1-6.0.1.jar",
+      "sha1": "33951f4e148cb2f107c5a54833191d2b1c7e6717",
+      "size": 4190036,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "journeymap forge 1.20.1 6.0.2",
+      "filename": "journeymap-forge-1.20.1-6.0.2.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/journeymap-forge-1.20.1-6.0.2.jar",
+      "sha1": "b1a2d795f31c0e8d82a065216db37a155070ea7c",
+      "size": 4311675,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "justzoom forge 2.1.1 MC 1.20.1",
+      "filename": "justzoom_forge_2.1.1_MC_1.20.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/justzoom_forge_2.1.1_MC_1.20.1.jar",
+      "sha1": "8bbcdfb61e9f0f738af0efff12c93b8f9daf2fb0",
+      "size": 204574,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "konkrete forge 1.8.0 MC 1.20 1.20.1",
+      "filename": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+      "size": 625185,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "MouseTweaks forge mc1.20.1 2.25.1",
+      "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+      "size": 76237,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "oculus mc1.20.1 1.8.0",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "refurbished furniture forge 1.20.1 1.0.20",
+      "filename": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "sha1": "ffb68135b88bdbb25224378c76daf922c3f4c322",
+      "size": 6689588,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "Searchables forge 1.20.1 1.0.3",
+      "filename": "Searchables-forge-1.20.1-1.0.3.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
+      "size": 77732,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "skinrestorer 2.10.0.2B1.20 forge",
+      "filename": "skinrestorer-2.10.0.2B1.20-forge.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/skinrestorer-2.10.0.2B1.20-forge.jar",
+      "sha1": "",
+      "size": 278170,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "sophisticatedcore 1.20.1 1.3.84.2308",
+      "filename": "sophisticatedcore-1.20.1-1.3.84.2308.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/sophisticatedcore-1.20.1-1.3.84.2308.jar",
+      "sha1": "b77d093e3312a660594a08b043cf4966bfa3ba96",
+      "size": 1640160,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "sophisticatedstorage 1.20.1 1.4.86.2131",
+      "filename": "sophisticatedstorage-1.20.1-1.4.86.2131.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/sophisticatedstorage-1.20.1-1.4.86.2131.jar",
+      "sha1": "0140b377ccba3b932fd30386263e78413a0b96a9",
+      "size": 1867685,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "TerraBlender forge 1.20.1 3.0.1.10",
+      "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+      "size": 107532,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "travelersbackpack forge 1.20.1 9.1.55",
+      "filename": "travelersbackpack-forge-1.20.1-9.1.55.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/travelersbackpack-forge-1.20.1-9.1.55.jar",
+      "sha1": "73b0ff637dbf3b6f6c75e66eb6004810426540ba",
+      "size": 1411786,
+      "required": true,
+      "category": "mods"
+    },
+    {
+      "name": "twilightforest 1.20.1 4.3.2508 universal",
+      "filename": "twilightforest-1.20.1-4.3.2508-universal.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f",
+      "size": 23332091,
+      "required": true,
+      "category": "mods"
+    }
+  ]
+}
