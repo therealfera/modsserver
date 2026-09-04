@@ -8,7 +8,7 @@
   },
   "hashAlgorithm": "sha1",
   "description": "modpack criado por fera e gabi :)",
-  "totalMods": 35,
+  "totalMods": 33,
   "files": [
     {
       "name": "aether 1.20.1 1.5.2 neoforge",
@@ -182,29 +182,11 @@
       "required": true
     },
     {
-      "name": "jei 1.20.1 forge 15.49.0.194",
-      "filename": "jei-1.20.1-forge-15.49.0.194.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/jei-1.20.1-forge-15.49.0.194.jar",
-      "sha1": "8c339e29c94bee23af3364e06dad31956e1d3a1f",
-      "size": 1673634,
-      "category": "mods",
-      "required": true
-    },
-    {
       "name": "jei 1.20.1 forge 15.56.0.205",
       "filename": "jei-1.20.1-forge-15.56.0.205.jar",
       "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/jei-1.20.1-forge-15.56.0.205.jar",
       "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
       "size": 1778129,
-      "category": "mods",
-      "required": true
-    },
-    {
-      "name": "journeymap forge 1.20.1 6.0.1",
-      "filename": "journeymap-forge-1.20.1-6.0.1.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/journeymap-forge-1.20.1-6.0.1.jar",
-      "sha1": "33951f4e148cb2f107c5a54833191d2b1c7e6717",
-      "size": 4190036,
       "category": "mods",
       "required": true
     },
