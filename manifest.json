@@ -101,11 +101,11 @@
       "required": true
     },
     {
-      "name": "elevatorid 1.20.1 1.9.1 forge",
-      "filename": "elevatorid-1.20.1-1.9.1-forge.jar",
-      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/elevatorid-1.20.1-1.9.1-forge.jar",
-      "sha1": "9117fbb20ce0b3b9abd25e19b3d5987a53be30c9",
-      "size": 187868,
+      "name": "elevatorid 1.20.1 lex 1.9",
+      "filename": "elevatorid-1.20.1-lex-1.9.jar",
+      "downloadUrl": "https://github.com/therealfera/modsserver/releases/download/1.0/elevatorid-1.20.1-lex-1.9.jar",
+      "sha1": "04f3ee97d8881f4dd6b4e2c8c5ba4e1785e2f2c7",
+      "size": 188132,
       "category": "mods",
       "required": true
     },
